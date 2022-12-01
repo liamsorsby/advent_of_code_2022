@@ -1,0 +1,19 @@
+{
+  "name": "advent_of_code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/liamsorsby/advent_of_code_2022.git",
+  "author": "liamsorsby <liam.sorsby@sky.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev:start": "ts-node typescript/day1.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "@types/node": "^18.11.10",
+    "typescript": "^4.9.3"
+  }
+}
